@@ -1,0 +1,6 @@
+print("Primeiro desafio do curso de Python")
+nome = input("Nome:")
+Salario = input("Salário:")
+porcentagem_bonus = input("Porcentagem de bônus:")
+print("O cálculo do KPI do bônus de 2024 é '1000 + salario * bonus'")
+print("O valor bonus do" + nome + "é:" + str(1000 + float(Salario) * float(porcentagem_bonus)))
