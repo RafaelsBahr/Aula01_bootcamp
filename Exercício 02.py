@@ -1,0 +1,6 @@
+print("Valor 1 para soma:")
+valor1 = input()
+print("Valor 2 para soma:")
+valor2 = input()
+soma = int(valor1) + int(valor2)
+print("A soma dos valores é: " + str(soma))
